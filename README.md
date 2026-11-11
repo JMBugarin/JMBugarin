@@ -1,6 +1,10 @@
-# Hi, I'm Joshua
+<p align="center">
+  <img src="assets/profile-banner.svg" width="100%" alt="Joshua Bugarin (@JMBugarin)">
+</p>
 
-I study computer science at UC Santa Cruz and minor in computer engineering.
+<p align="center">
+  I study computer science at UC Santa Cruz and minor in computer engineering.
+</p>
 
 ## Featured projects
 
@@ -11,6 +15,29 @@ I study computer science at UC Santa Cruz and minor in computer engineering.
 | [Classmap](https://github.com/JMBugarin/ucsc-campus-router-v2) | Imports your class schedule and shows you where to find each classroom at UC Santa Cruz. | Flutter, Dart, React, MapLibre | [Video](assets/classmap-ios.mp4) |
 | Ethocal | I built the messaging, profile, and event screens for a sustainable shopping app. Our team won UC Riverside's DesignVerse hackathon. | Flutter, Dart | — |
 
+## Skills
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-316998?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-9B3E26?style=flat-square&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-245B94?style=flat-square&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-146D87?style=flat-square&logo=dart&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-A53D2A?style=flat-square&logo=swift&logoColor=white)
+
+**Machine learning & computer vision**
+
+![LightGBM](https://img.shields.io/badge/LightGBM-357049?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-375597?style=flat-square&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-3D5D8F?style=flat-square&logo=numpy&logoColor=white)
+
+**Web, mobile & desktop**
+
+![Flutter](https://img.shields.io/badge/Flutter-1D6E99?style=flat-square&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-13576D?style=flat-square&logo=react&logoColor=white)
+![MapLibre](https://img.shields.io/badge/MapLibre-4D5D80?style=flat-square&logo=maplibre&logoColor=white)
+![PySide6](https://img.shields.io/badge/PySide6-37624B?style=flat-square&logo=qt&logoColor=white)
+
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/Joshua-bugarin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square)](https://linkedin.com/in/Joshua-bugarin)
